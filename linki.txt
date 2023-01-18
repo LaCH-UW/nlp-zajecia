@@ -1,0 +1,3 @@
+https://github.com/LaCH-UW/nlp-zajecia
+https://ws.clarin-pl.eu/lem
+https://ws.clarin-pl.eu/sentyment
