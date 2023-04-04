@@ -1,0 +1,28 @@
+Funkcja to wydzielony fragment kodu, który można wielokrotnie używać w różnych miejscach programu. Tak się składa, że już wykorzystywaliśmy funkcje, a jedną z nich była funkcja xrange. Nie trzeba było jej pisać samodzielnie, bo zrobił to już za ciebie inny programista. Wystarczyło, że wiesz jak ona działa. Bez funkcji praca zespołowa nad nawet średnim programem byłaby prawie niemożliwa. Większość funkcji wymaga informacji z zewnątrz. Są to liczby, tekst i inne obiekty. Większość zwraca również informacje.
+
+Jak wywoływać funkcje w Pythonie?
+Po prostu napisz nazwę funkcji razem z argumentami w nawiasach, jak widać w przykładach poniżej:
+
+def dzielenie(dzielna, dzielnik):
+    if(dzielnik == 0):
+        return # zakoncz funkcje nic nie zwracajac
+    else:
+        return dzielna / dzielnik
+
+def przywitanie():
+    print "Pozdrowienia z mojej funckji!"
+
+def przywitanie_imienne(imie, zyczenia):
+    print "Witaj", imie, ". Zycze ci", zyczenia
+
+# brak argumentow i zwracanej wartosci
+przywitanie()
+
+# brak zwracanej wartosci, ale sa juz argumenty
+przywitanie_imienne("Jacek", "zdrowia")
+
+# jak przypisac zmiennej wartosc zwrocona przez funkcje
+x = dzielenie(9, 3)
+print x
+Ćwiczenie
+W tym ćwiczeniu użyjesz istniejącej funkcji oraz dodasz swoją własną, aby stworzyć w pełni funkcjonalny program.

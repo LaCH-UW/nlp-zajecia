@@ -1,0 +1,14 @@
+t0.txt - Kronika Galla (Zygmunt Komarnicki, 1873)
+t1.txt - Traktat tylżycki (1807)
+t2.txt - Sztuka a lud (1904) https://pl.wikisource.org/wiki/Sztuka_a_lud
+t3.txt - Fantazja czy wyobraźnia twórcza? (1893)
+t4.txt - Film (Kaliber 44)
+t5.txt - Szklanki (Young Leosia)
+t6.txt - Garaż (Killa Familla)
+t7.txt - Normalnie o tej porze (Kaliber 44)
+t8.txt - Pan Cogito i wyobraźnia
+t9.txt - Kronika Galla (Zygmunt Komarnicki, 1873)
+t10.txt - Kronika Galla (Zygmunt Komarnicki, 1873) 
+t11.txt - Kronika Galla (Zygmunt Komarnicki, 1873) [Pieśń o zgonie Bolesława]
+t12.txt - Kronika Jana z Czarnkowa (Józef Żerbiłło, 1905)
+t13.txt - Kronika Jana z Czarnkowa (Józef Żerbiłło, 1905)
