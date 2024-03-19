@@ -1,0 +1,8 @@
+
+David M. Berry wyróżnia dwie kategorie narzędzi cyfrowych w naukach humanistycznych. Pierwsza grupa to narzędzia usprawniające tradycyjne metody humanistyczne poprzez digitalizację i archiwizację danych, co umożliwia przeszukiwanie informacji oraz ich wizualizację. Druga kategoria obejmuje narzędzia koncentrujące się na danych generowanych w środowisku cyfrowym, które ze względu na swoją ogromną ilość są nieprzystępne bez wsparcia cyfrowych technologii, co nazywane jest problemem big data. Radosław Bomba argumentuje, że ta potrzeba przyniosła nowe metody badań i modele poznawcze, powodując rewolucję w naukach humanistycznych.
+
+Pierwsza kategoria narzędzi skupia się głównie na ułatwieniach dostępu do danych, takich jak cyfrowe biblioteki i archiwa. Druga natomiast obejmuje narzędzia, które nie tylko umożliwiają dostęp, ale także wspierają tworzenie nowej wiedzy poprzez analizę danych.
+
+W Polsce proces digitalizacji i udostępniania danych rozwija się dynamicznie, ale w obszarze narzędzi analitycznych istnieje wiele możliwości do dalszego rozwoju.
+
+Analiza przypadku ma na celu przedstawienie praktycznego przykładu narzędzia cyfrowej humanistyki, które nie tylko umożliwia dostęp do zdigitalizowanych materiałów, ale także samo jest narzędziem badawczym. W omawianym przypadku narzędzie wspiera badania historii kultury filmowej w jej najwcześniejszych fazach.
