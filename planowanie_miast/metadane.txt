@@ -1,0 +1,23 @@
+<metadata>
+<dcterms:title>
+Planowanie administracyjne rozwoju przestrzennego miast w guberniach Królestwa Polskiego 1867-1915. Wybór źródeł archiwalnych
+</dcterms:title>
+<dcterms:identifier>https://doi.org/10.18150/DA22GF</dcterms:identifier>
+<dcterms:creator>Górzyński, Makary</dcterms:creator>
+<dcterms:creator>Danik, Justyna</dcterms:creator>
+<dcterms:creator>Karbownik, Izabela</dcterms:creator>
+<dcterms:creator>Szulc, Alicja</dcterms:creator>
+<dcterms:publisher>RepOD</dcterms:publisher>
+<dcterms:issued>2022-09-28</dcterms:issued>
+<dcterms:modified>2022-09-28T14:26:03Z</dcterms:modified>
+<dcterms:description>
+<p>Tematem finansowanych przez Narodowe Centrum Nauki (Miniatura 5) badań podstawowych z zakresu nauk o sztuce (historia architektury i urbanistyki) prowadzonych w Ośrodku Badań Regionalnych Akademii Kaliskiej im. Prezydenta Stanisława Wojciechowskiego była historia planowania przestrzennego i regulacji miast Królestwa Polskiego przełomu XIX i XX wieku. Przeprowadzono kwerendę źródłoznawczą w archiwach polskich, w zakresie administracyjnego projektowania urbanistycznego miast gubernialnych i niektórych ośrodków powiatowych. Efektem kwerendy jest prezentowany materiał źródłowy, weryfikujący i ukierunkowujący wstępne założenia, dotyczące wieloletniego projektu badawczego o architekturze i procesach przestrzennych w miastach Królestwa Polskiego między reformami postyczniowymi a Wielką Wojną.</p><p>Poniższy zestaw przetłumaczonych tekstów ma w sposób reprezentatywny ukazywać różnorodne aspekty działań administracji rządowej na terenie podległego Rosji Królestwa Polskiego, dotyczących sporządzania planów pomiarowych i regulacyjnych (projektowanego położenia) miast. Zestawiono akta poświęcone miastom dużym (gubernialnym) i mniejszym, uwypuklając kwestie takie jak przebieg procedury administracyjnej, jej aktorzy, podstawy prawne, zakres działań mierniczych, stosunek administracji i mieszkańców do planowania przestrzennego w kontekście stanu i rozwoju miast, przeszkody i problemy w sporządzaniu projektów urbanistycznych. Przedmiotem naświetlonym w niniejszym zbiorze jest też zagadnienie polityki terenowej miast i możliwości ich przestrzennego rozwoju. Prezentowany zestaw nie dotyczy ośrodków ze wszystkich guberni dawnego Króelstwa Polskiego; ze względu na czas trwania projektu badawczego i jego rozpoznawczy charakter ograniczono się do wyboru materiałów z guberni wysoko uprzemysłowionych (piotrkowska, jedynie uzupełniająco warszawska, wymagająca oddzielnych badań) i tych o przeważającym profilu miasteczek rolniczo-handlowych lub miast powiatowych (kielecka, lubelska, łomżyńska, płocka, radomska). Pominięto metropolie – jako wymagające oddzielnego ujęcia. Opracowując tłumaczenia, zachowano strukturę kancelaryjną instytucji, będących wytwórcami danego zasobu archiwalnego, podając każdorazowo nadane oryginalnie tytuły teczek / spraw i tytulaturę oraz zapisy kancelaryjne. Każdą jednostkę archiwalną opatrzono identyfikacją zasobu archiwalnego i sygnaturą, a tłumaczenia opatrzono odniesieniami do paginacji. Zachowano daty starego stylu (kanc. ros.).</p><p><br /></p>
+</dcterms:description>
+<dcterms:subject>Arts and Humanities</dcterms:subject>
+<dcterms:subject>urbanistyka</dcterms:subject>
+<dcterms:subject>Królestwo Polskie</dcterms:subject>
+<dcterms:subject>plany regulacyjne</dcterms:subject>
+<dcterms:subject>miasta</dcterms:subject>
+<dcterms:contributor>Górzyński, Makary</dcterms:contributor>
+<dcterms:dateSubmitted>2022-09-22</dcterms:dateSubmitted>
+</metadata>
